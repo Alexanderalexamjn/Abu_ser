@@ -86,15 +86,15 @@ All setvars are
  💌To change bad word remove list
  .setvar THERI_LIST:badword,badword
 
- 💌To change ABUSER bot name
+ 💌To change MUNUSER bot name
  .setvar BOT_NAME:your bot name
 
  💌To get a song when your number is mentioned
  .setvar TAG_REPPLY:your jid 
 
-    □■□𝙱𝚈 𝙰𝙱𝚄 𝚂𝙴𝚁 𝚃𝙴𝙰𝙼 ■□■□
+    □■□𝙱𝚈 мυиυ 𝚂𝙴𝚁 𝚃𝙴𝙰𝙼 ■□■□
 
-      ════💝𝙰𝙱𝚄 𝚂𝙴𝚁💝═════
+      ════❣️мυиυ 𝚂𝙴𝚁💝═════
 `}) 
 
 }));
