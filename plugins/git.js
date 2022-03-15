@@ -21,19 +21,19 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: 'command help menu'}, (as
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.jpg, contextInfo: {mentionedJid: message.mention}, caption: `
    ` + config.LOGO_NAME + `
 
-*Oᴡɴᴇʀ number Aʙᴜ* :https://wa.me/917025994178.            
+*Oᴡɴᴇʀ number ᴍᴜɴᴀᴠɪʀ * :https://wa.me/918590822912.            
 
 
-*Wʜᴀᴛsᴀᴘᴘ Gʀᴏᴜᴘ Aʙᴜ sᴇʀ* :https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk_.
+*ᴍᴜɴᴜ sᴇʀ instagram * :http://instagram.com/munavir__x__
 
 
-*Gɪᴛ Lɪɴᴋs* : https://github.com/Afx-Abu/Abu_ser.
+*Gɪᴛ Lɪɴᴋs* : ᴳᴵᵀ ᴸᴵᴺᴷ ᴵᴸᴸᴬ ᴮᴿᴼ
 
 
-*Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀɴᴅs* :https://github.com/Afx-Abu/Abu-media/tree/main/bgm.
+*Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀɴᴅs* :https://github.com/Afx-Munu/Munu-media/tree/main/bgm.
 
 
-*sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀɴᴅs* :https://github.com/Afx-Abu/Abu-media/tree/main/stickers.
+*sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀɴᴅs* :https://github.com/Afx-Munu/Munu-media/tree/main/stickers.
 
 *` + config.LOGO_NAME + `*
 
