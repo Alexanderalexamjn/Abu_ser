@@ -1,5 +1,5 @@
 /*
-# Copyright (C) 2020 Afx-Abu.
+# Copyright (C) 2020 Mr7-Munu.
 #
 # WhatsAsena is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *Abu-Ser*:  ```" + msg + "```"
+    return "✅ *Munu-Ser*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *Abu-Ser*:  ```" + msg + "```"
+    return "🛑 *Munu-Ser*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *Abu-Ser*:  ```" + msg + "```"
+    return "⏺️ *Munu-Ser*:  ```" + msg + "```"
 }
 
 
