@@ -1,4 +1,4 @@
-/* coded by abu
+/* coded by munu
 */
 
  const Sana = require('../events');
@@ -13,7 +13,7 @@ if (Config.BC == 'default') mode = 'ᴅᴇᴠᴇʟᴏᴘᴇʀ : ᴀʙᴜ'
 
 else mode = 'ғᴏʀᴡᴀʀᴅᴇᴅ ʙʏ ' + Config.BC
 
-            const abu = {
+            const munu = {
 
                   key: {"fromMe": false,"participant": "0@s.whatsapp.net","remoteJid": "0@s.whatsapp.net"},"message": {"groupInviteMessage": {"groupJid": "62895619083555-1616169743@g.us","inviteCode": "mememteeeekkeke","groupName": "Elsa Mwol", "caption": mode , 'jpegThumbnail': fs.readFileSync('./photo/Abu.png')}}
              
