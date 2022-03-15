@@ -1,7 +1,7 @@
 {
-  "name": "Abu_ser",
+  "name": "Munu_ser",
   "version": "7.3.6",
-  "description": "Abu is the Modified Version of WhatsAsena, Made By @Afx-Abu with Baileys.",
+  "description": "Munu is the Modified Version of WhatsAsena, Made By @Afx-munu with Baileys.",
   "main": "./Abu_ser/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
@@ -18,7 +18,7 @@
     "WhatsAsena"
   ],
   "author": "Afx-Abu",
-  "developer": "@Afx-Abu / @Afx-Abu",
+  "developer": "@Afx-munu / @Afx-munu",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/Afx-Abu/Abu_ser/issues"
