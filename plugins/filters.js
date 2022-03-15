@@ -121,11 +121,11 @@ Abu.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     if(Config.STICKERP){
     let banned = jid.find( Jid => Jid === message.jid);
     if(banned !== undefined) return
-    if (!!message.mention && message.mention[0] == '919605741366@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./Abu-media/stickers/mention.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
+    if (!!message.mention && message.mention[0] == '918590822912@s.whatsapp.net') {
+await message.client.sendMessage(message.jid, fs.readFileSync('./munu-media/stickers/mention.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
     }
  if (!!message.mention && message.mention[0] == '917994909899@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./Abu-media/stickers/ameenmention.webp'), MessageType.sticker, { mimetype: Mimetype.webp,quoted : message.data, ptt: false})
+await message.client.sendMessage(message.jid, fs.readFileSync('./munu-media/stickers/ameenmention.webp'), MessageType.sticker, { mimetype: Mimetype.webp,quoted : message.data, ptt: false})
      }
        
 const array = ['asena','ayin','😂','back','Mm','Back','Bot','fuck','Fuck','Hehe','Hello','Kill','kill','kiss','line','love','mwolu','Mwolu','single','tha','thund','z','Z','bie','Bie','Kaztro','Sad','Poocha','Poda','Bomb','Ayin','Ariyo','Alone','Pubg','Pes','Bgmi','Ff','Fight','Free fire','chavanam','Manassilayo','Manassilayilla','Kodathi','Kollum','vatt','Gaanam','Single','Maalutty','Xxxtentacion','Aa','Pottan','Budhi','Love','Njan','Mazha','Hi','Vella','Patt','Colour','Hacker','Ok','tts','Hack','Hii','list','Da']
